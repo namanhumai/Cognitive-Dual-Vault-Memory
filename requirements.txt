@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langgraph
+langchain-mcp-adapters>=0.3.0
+fastmcp>=2.0.0
+mcp[cli]
+pydantic
+python-dotenv
+rich
