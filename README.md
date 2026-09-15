@@ -23,12 +23,4 @@ Instead of holding everything in RAM, the agent actively extracts dense technica
 * **LLM:** Gemini (for reasoning/extraction & for fast routing)
 * **Evals:** LLM-as-a-Judge for hallucination checks
 
-## 🚀 Getting Started
 
-1. **Clone & Setup:**
-   ```bash
-   git clone [https://github.com/namanhumai/neuro-vault.git](https://github.com/yourusername/neuro-vault.git)
-   cd neuro-vault
-   python -m venv venv
-   source venv/bin/activate  # Windows: .\venv\Scripts\activate
-   pip install -r requirements.txt
